@@ -12,4 +12,4 @@ server:
   port: 4002
 spring:
   applications:
-    name:microservice-config-prod
+    name: microservice-config-prod

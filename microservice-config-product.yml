@@ -66,4 +66,7 @@ eureka:
   instance:
     instance-id: ${spring.application.name}:${server.port}
     prefer-ip-address: true
+
+emp:
+  name: zhangsan
 #保存时注意，选择 UTF-8 保存
